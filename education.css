@@ -1,0 +1,24 @@
+.one{
+   display: flex;
+    
+}
+.box{
+    height: 500px;
+    width: 500px;
+    margin: 10px;
+    background-color: black;
+    color: white;
+}
+
+    .footer-btn{
+display: flex;
+
+}
+ ul a {
+    display: block;
+ }
+.footer-btn ul{
+    margin-top: 10px;
+    
+ }
+    
